@@ -2,7 +2,11 @@
 
 It is a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does
 
-## Check it out! [Play?](https://priyanshupaul08.github.io/Tic-Tac-Toe/)
+## Why this?
+
+Most of the games I have seen online require two players, and I wanted to try creating a game where one player plays against the computer.
+
+## So here it is! [Check it out!](https://priyanshupaul08.github.io/Tic-Tac-Toe/)
 
 ##How to get started
 
