@@ -8,7 +8,7 @@ Most of the games I have seen online require two players, and I wanted to try cr
 
 ## So here it is! [Check it out!](https://priyanshupaul08.github.io/Tic-Tac-Toe/)
 
-##How to get started
+## How to get started
 
 To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the next player’s chance.
 
