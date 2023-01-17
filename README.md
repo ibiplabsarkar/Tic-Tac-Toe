@@ -12,13 +12,13 @@ Most of the games I have seen online require two players, and I wanted to try cr
 
 To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the next player’s chance.
 
-When the game ends, it displays one of the following three outcomes:
+## When the game ends, it displays one of the following three outcomes:
 
 Congratulations, you beat the computer!
 You lost!
 Draw! Try playing again!
 
-Built with:
+## Built with:
 - HTML
 - CSS
 - JS
